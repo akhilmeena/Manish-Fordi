@@ -1,3 +1,13 @@
 Flask 
 Gunicorn
+certifi
+chardet
+Click
+idna
+itsdangerous
+Jinja2
+MarkupSafe
 pyTelegramBotAPI
+requests
+six
+Werkzeug
